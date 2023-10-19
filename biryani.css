@@ -1,0 +1,14 @@
+body{
+    background-image: url(./images/biryani.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a{
+    color: cornsilk;
+}
+#b{
+    color: blanchedalmond;
+}
+u1{
+    list-style-type: square;
+}
